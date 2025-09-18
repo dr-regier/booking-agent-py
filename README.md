@@ -180,7 +180,7 @@ agent.automated_booking_assistant(analysis, criteria)
 ## 📁 File Structure
 
 ```
-accommodation-search-agent/
+booking-agent-py/
 ├── accommodation_agent.py          # Basic search agent
 ├── advanced_accommodation_agent.py # Advanced analysis agent
 ├── cli_interface.py               # Command-line interface
